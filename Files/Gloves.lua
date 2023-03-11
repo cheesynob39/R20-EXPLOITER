@@ -30,6 +30,7 @@
     ["Berserk"] = game.ReplicatedStorage.GeneralHit,
     ["Rattlebones"] = game.ReplicatedStorage.GeneralHit,
     ["Chain"] = game.ReplicatedStorage.GeneralHit,
+    ["Ping Pong"] = game.ReplicatedStorage.GeneralHit,
     ----------------------------------------
     
     ["Diamond"] = game.ReplicatedStorage.DiamondHit,
